@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.0.2/",
+    "preact": "https://esm.sh/preact@10.10.0",
+    "preact/": "https://esm.sh/preact@10.10.0/",
+    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.1?external=preact",
+    "@twind": "./twind.config.ts",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "fluent": "https://deno.land/x/better_fluent@v1.0.0/mod.ts",
+    "three": "https://esm.sh/three@0.144.0"
+  }
+}
